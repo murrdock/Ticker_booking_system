@@ -1,2 +1,2 @@
 # Ticket_booking_system
-A client server based application in C demonstrating the use of Unix System Calls for file handling, network, IPC, and others.
+A client server based application in C demonstrating the use of Unix System Calls for file handling, network, IPC, and others for booking train tickets. Maximum number of clients that can connect to the server is restricted using counting semaphores. Using a different terminal window a new client can login to the server. Data is stored in plain text files(C structures are stored and read). ACID properties for any transaction are ensured using system calls available in Linux Programmer's Manual for file locking.
