@@ -1,0 +1,18 @@
+Name    : Gaurav Arora
+ROLL_NO : MT2019038
+
+Steps to follow :
+
+### Before all execute the shell scripts as follows:
+
+1. Open the terminal in the directory of the project
+2. chmod +x begin.sh
+3. ./begin.sh
+
+A new terminal window will open where server program is executing
+
+### Open a client connection
+
+1. Execute in terminal "access.sh" as follows: $ ./access.sh
+
+A new terminal window will open which is a client interface to the server
